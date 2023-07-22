@@ -38,7 +38,7 @@ You can click on these results to be directed to where their DOI is hosted.
 
 Currently, the JIF data is from [Clarivate's 2022 Journal Citation Reports](https://jcr.clarivate.com/jcr/home). Since the entire list cannot be exported at once, only the top 2000 journals are included.
 
-If you would like to add more JIF data, you can do so by modifying the `static/jcr.json` file. To access the data, you must have a Clarivate account and a subscription to the Journal Citation Reports.
+If you would like to add more JIF data, you can do so by modifying the `static/eissn.json` file. To access the data, you must have a Clarivate account and a subscription to the Journal Citation Reports.
 
 Please ensure you make changes via a new branch and submit a pull request.
 
